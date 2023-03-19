@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04217fa1-d6e7-49c3-9bb5-58eaf7e770e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curs7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul1/Advertisment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul1/EmailAdvertisment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul1/FacebookAdvertisment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul1/PrintAdvertisement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul1/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul2/BrdBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul2/BtBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul2/IngBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul2/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul3/run.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2My9r4nk9HlMorQH76VzLL6zA0O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04217fa1-d6e7-49c3-9bb5-58eaf7e770e6" name="Changes" comment="" />
+      <created>1678729152562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678729152562</updated>
+    </task>
+    <servers />
+  </component>
+</project>
